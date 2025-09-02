@@ -57,3 +57,17 @@ id user3
 ```
 
 ---
+**Comments**
+# This is a single-line comment in Bash
+
+```bash
+echo "Hello, you are learning Bash Scripting on DAREY.IO!" # This is also a comment, following a command
+```
+
+# This is another way to create
+# a multi-line comment. Each line
+# is prefixed with a # symbol.
+
+```bash
+echo "Here is an actual code that gets executed"
+```
