@@ -1,28 +1,7 @@
-# 📝 Commented Bash Script Project
-
-## 📌 Project Overview
-This project demonstrates the creation and execution of a **commented Bash script** named `commented_script.sh`.  
-The script follows best practices by including:
-- A **shebang (`#!/bin/bash`)**
-- **Single-line comments**
-- **Multi-line header comments**
-- **Inline comments**
-
-It performs four main tasks:
-1. Prints a welcome message  
-2. Creates a directory  
-3. Lists files in the current directory  
-4. Displays a goodbye message  
-
----
-
-## 🖥️ The Script: `commented_script.sh`
-
-```bash
 #!/bin/bash
 # ------------------------------------------------------------
 # File: commented_script.sh
-# Author: Your Name
+# Author: [Your Name]
 # Purpose: Demonstrate a simple Bash script with comments
 # ------------------------------------------------------------
 
@@ -48,20 +27,3 @@ echo "-----------------------------------"
 echo " Thank you for running the script! "
 echo " Goodbye! "
 echo "-----------------------------------"
-```
----
-
-** Save the script as commented_script.sh 
-![Script](./script.png)
-
-** Change the permission to make the code executable **
-
-```bash
-   chmod +x commented_script.sh
-```
-** Run the script ** 
-
-```bash 
-   ./commented_script.sh
-```
-![run](./run.png)
