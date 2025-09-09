@@ -6,13 +6,9 @@ if [ $num -gt 0 ]; then
     echo "The number is positive."
 elif [ $num -lt 0 ]; then
     echo "The number is negative."
-fi
 
-#if [ $num -lt 0 ]; then
-    # echo "The number is negative."
-#fi
-#if [ $num -eq 0 ]; then
+else [ $num -eq 0 ]; then
     # echo "The number is zero."
-#fi
+fi
 
 
