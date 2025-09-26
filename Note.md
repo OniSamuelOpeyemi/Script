@@ -17,3 +17,11 @@ Another key lesson was **error handling with exit codes**, where different failu
 - ✅ Validating environment variables before running sensitive commands.  
 
 Overall, this exercise strengthened my foundation in combining **functions, arguments, conditionals, and error handling** to make Bash scripts more **robust, reusable, and production-ready**.
+
+!(aws_client_setup)[./Shell-Script/ScreenShot/awsprofile.png]
+
+!(aws_client_setup)[./Shell-Script/ScreenShot/awsprofile2.png]
+
+!(aws_client)[./Shell-Script/ScreenShot/client1.png]
+
+!(aws_client)[./Shell-Script/ScreenShot/client2.png]
