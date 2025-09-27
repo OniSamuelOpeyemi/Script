@@ -57,7 +57,7 @@ Range: 1 to 10
 ...
 5 x 10 = 50
 =======================================
-
+```
 --------------
 
 ![prompting user for number](./Screenshot/Prompt1.png)
